@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-panorama1correctedv2",
-      "name": "Panorama1CorrectedV2",
+      "name": "460 Concord Dr, Sedona, AZ - Northern Arizona Aerial Photography",
       "levels": [
         {
           "tileSize": 256,
