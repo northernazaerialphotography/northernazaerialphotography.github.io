@@ -49,7 +49,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "460 Concord Dr #1",
+  "name": "460 Concord Dr, Sedona, AZ - NAAP",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
