@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-panorama2",
-      "name": "Panorama2",
+      "name": "460 Concord Dr, Sedona, AZ - Northern Arizona Aerial Photography",
       "levels": [
         {
           "tileSize": 256,
@@ -49,7 +49,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Concord Dr #2",
+  "name": "460 Concord Dr, Sedona, AZ - Northern Arizona Aerial Photography",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
